@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jason.thompson/workspace/puppet/modules/roles/manifests/bacula/devnet'
+let g:netrw_dirhist_2='/Users/jason.thompson/workspace/puppet/modules/bacula/manifests/client'
+let g:netrw_dirhist_3='/Users/jason.thompson/workspace/puppet/modules/roles/manifests/bacula/jpn1'
+let g:netrw_dirhist_4='/Users/jason.thompson/workspace/puppet/modules/roles/manifests/bacula'
